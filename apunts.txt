@@ -1,0 +1,54 @@
+** Pirámide SEO **
+# Tenemos cuatro niveles:
+# Website and Content, Keywords, Links, UX Brand Social
+
+** Analizar webs **
+# https://www.similarweb.com y https://es.semrush.com/
+# Comprovar si el sitio esta indexado: site: [dominio]
+
+# Pingdom tools -> Como de rápida es la página web. Otras herramientas para comprovar la velocidad de la página són PageSpeed insights o mobile friendly tool.
+
+** Keywords **
+# Google ads -> para buscar las mejores palabras.
+# Google trends -> Ver la popularidad de las palabras por meses, años, ...
+# Serpstat -> para ver el valor de las palabras.
+# neilpatel -> para buscar keyworks.
+# Surfer keywords -> app para chrome para buscar keywords y sus valores.
+# Buscador de google (autocompletado).
+# Answer the public
+# Keywordbox
+# Sistrix
+# https://ahrefs.com/es/keyword-generator
+# Podemos colocar palabras clave en el title, description, texto, URL, H1, ALT, internal links,...
+
+** Backlinks **
+# Herramientas para comprobar esto:
+# google.com/webmasters/tools/
+# ahrefs.com
+# majestic.com
+
+** Tips SEO **
+# Buscar palabras clave en google ads.
+# Añadir al title y description iconos. Añadir palabras clave transaccionales: mejores ofertas de..., mejor oferta, comprar, tienda online, comparativas, opiniones -> Esto dentro del articulo, title y description.
+# Ejemplo title: (icono) Jaula Hagen Vision II La mejor jaula para pájaros de 2018.
+# Ejemplo description: La Jaula Hagen Vision II Modelo M01 es la mejor jaula para tus pájaros (icono). En esta reseña te mostramos sus ventajas y las mejores ofertas para la Hagen Vision. ¡Entra y cómprala al mejor precio!
+# TCR de una reseña: 1. Fase de interés, (imagen), 2. Caracteríticas técnicas, 3. Pros y contras (Ventajas,...), 4. Instalaciones (videos), 5. Conclusión.
+# Fase de interés: La Jaula Hagen Vision II es la elección favorita de los expertos en avicultura y aves exóticas. Su durabilidad, su tamaño y su inmejorable relación calidad-precio la convierten en la mejor jaula para pájaros como canarios,... del 2018.
+# Todos los enlaces de afiliados tienen que ser nofollow
+
+
+https://agenciaseo.eu/emojis-seo/
+https://victorgbustamante.com/iconos-para-meta-descripcion-en-google/
+
+https://marketing4ecommerce.net/como-encontrar-nichos-de-mercado-en-amazon-herramientas-imprescindibles/
+https://mijaelseo.com/encontrar-nichos-rentables-en-amazon/
+
+
+https://www.youtube.com/watch?v=iuiAccXgV-w
+https://www.youtube.com/watch?v=GeCuSscAHVk
+https://www.youtube.com/watch?v=4AKgJlPlHyw -> Amazon afiliados
+https://www.youtube.com/watch?v=TKrIAMVk5Vk
+
+
+
+
